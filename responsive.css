@@ -1,0 +1,376 @@
+@media (width>768px){
+ 
+
+        .group{
+            
+        width: 150px;
+        height: 50px;
+        margin: 38px 343px;
+        margin-left: 599px;
+      
+      
+        }
+
+        .all{
+          margin: 38px -10px;
+          margin-left: -240px;
+        }
+
+        .it{
+
+font-size: 20px;
+    
+        }
+
+        .chat{
+
+            font-size: 48px;
+        }
+    
+     .place{
+
+
+    font-size: 36px;
+     }
+ 
+     .back{
+            width: 1550px;
+            height: 500px;
+            margin-left: -482px;
+
+
+
+     }
+     
+  
+        .div2{
+            position: relative;
+            left: -1790px;
+            display: flex;
+    justify-content: center;
+    align-items: center;
+
+            }
+
+
+
+.mad{
+margin: -39px -603px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.line{
+    margin:40px -620px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.girl{
+position: relative;
+right: 235px;
+
+
+}
+.mobile{
+
+    position: relative;
+    right: 235px;
+
+}
+
+.smile{
+
+
+    position: relative;
+    left: 59px;
+    top: -193px;
+
+
+}
+
+
+.pen{
+
+    position: relative;
+    left: 180px;
+    top: -193px;
+
+}
+
+
+.back:hover{
+    transition: all 3s linear;
+    background-color: plum;
+
+
+
+  }
+.round:hover{
+
+    transition: all 3s ;
+    background-color:seagreen;
+   transform: scale(1px 0.7px);
+   width: 190px;
+   height: 70px;
+   
+}
+
+
+}
+
+
+@media (width>1448px){
+    .group{
+        width: 200px;
+        height: 80px;
+       margin-left: 1190px;
+       position: relative;
+       right: 200px;
+       
+    }
+
+    .one{
+margin-left: 500px;
+    }
+.two{
+
+    margin-left: 400px;
+
+}
+
+   
+.three{
+    margin-left: 300px;
+}
+
+
+.six{
+
+
+    margin-left: -1400px;
+}
+
+
+
+.five{
+
+    margin-left: -1310px;
+}
+
+
+.four{
+    margin-left: -1200px;
+
+}
+
+.chat{
+ position: relative;
+ right: 750px;
+ top: -160px;
+ font-size: 50px;
+ width: 350px;
+height: 100px;
+text-align: center;
+color: lightcoral;
+
+
+}
+
+
+.it{
+    position: relative;
+    right: 750px;
+    top: -160px;
+
+
+}
+
+.round{
+
+    margin: 10px -1200px;
+    display: flex;
+    position: relative;
+    top: -330px;
+    left: 100px;
+    width: 200px;
+    height: 80px;
+
+}
+
+.round2{
+
+    margin: 110px 1230px;
+    display: flex;
+    position: relative;
+    top: -330px;
+    width: 180px;
+    height: 70px;
+
+}
+
+.div{
+
+
+position: relative;
+left: -1150px;
+
+}
+
+
+.girl{
+
+    position: relative;
+    left: -1550px;
+
+
+}
+
+
+.mobile{
+
+    position: relative;
+    left: -1465px;
+
+}
+
+
+.pen{
+
+    position: relative;
+    left: -1000px;
+}
+
+
+.smile{
+    position: relative;
+    left: -1079px;
+
+    
+}
+
+.for{
+
+    position: relative;
+    left: -1700px;
+    width: 300px;
+    height: 40px;
+    font-size: 32px;
+    white-space: nowrap;
+
+}
+
+
+
+
+.place{
+
+    position: relative;
+    left: -1650px;
+    font-size: 36px;
+
+}
+
+
+.send{
+
+
+    
+    position: relative;
+    left: -1650px;
+    font-size: 18px;
+ 
+  
+}
+
+.back{
+
+    position: relative;
+    left: -2550px;
+   width: 3000px;
+   height: 800px;
+}
+
+
+
+.more{
+    position: relative;
+    left: -2550px;
+    width: 427px;
+    height: 172px;
+    font-size: 48px;
+
+
+}
+
+
+.stay{
+
+    position: relative;
+    left: -1750px;
+    top: 1429px;
+    font-size: 22px;
+    text-align: center;
+
+
+
+
+}
+
+
+.button{
+
+
+    position: relative;
+    left: -1150px;
+    top: 1370px;
+    width: 200px;
+    height: 80px;
+
+}
+
+
+
+.back:hover{
+    transition: all 3s linear;
+    background-color: plum;
+
+
+
+  }
+.round:hover{
+
+    transition: all 3s ;
+    background-color:seagreen;
+   transform: scale(1px 0.7px);
+   width: 190px;
+   height: 70px;
+   
+}
+
+
+
+
+.div2{
+
+margin: 5px -2560px;
+}
+.mad{
+
+    margin: -45px -3162px;
+}
+
+.line{
+
+    margin: 40px -3180px;
+
+}
+
+
+
+
+
+}

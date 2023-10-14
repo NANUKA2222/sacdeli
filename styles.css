@@ -381,6 +381,7 @@ right: 940px;
   width: 440px;
 
 
+
 }
 
 .more{
@@ -492,7 +493,6 @@ right: 940px;
   .line{
 
 
-
     width: 1px;
     height: 100px;
     border: rgba(135, 135, 157, 1) solid 1px;
@@ -501,6 +501,23 @@ right: 940px;
     left: -1143px;
     opacity: 25%;
   }
+
+  .back:hover{
+    transition: all 3s linear;
+    background-color: plum;
+
+
+
+  }
+.round:hover{
+
+    transition: all 3s ;
+    background-color:seagreen;
+   transform: scale(1px 0.7px);
+   width: 190px;
+   height: 70px;
+   
+}
 
 
 
